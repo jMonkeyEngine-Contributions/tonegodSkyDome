@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: tonegod.skydome
+OpenIDE-Module-Layer: tonegod/skydome/layer.xml
+OpenIDE-Module-Localizing-Bundle: tonegod/skydome/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
